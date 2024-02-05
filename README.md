@@ -10,9 +10,13 @@ This repository is created to fulfill the bootcamp Computer Vision project requi
 
 Traffic congestion is a major issue in urban areas, leading to increased travel times, pollution, and accidents. The goal of TrafficNet is to utilize advanced computer vision techniques, particularly image segmentation, to analyze and understand roads and obstacles in real-time. The ultimate objective is to contribute to the development of self-driving cars powered by artificial intelligence, capable of efficiently navigating through congested city streets.
 
+![Example](https://www.intelligenttransport.com/wp-content/uploads/self-driving-1.jpg)
+
 ## Dataset
 
-The project employs the Cityscapes dataset, which includes a diverse set of images taken from within cars, providing a realistic view of urban environments. The dataset is annotated with pixel-level segmentation masks for various classes, such as sky, building, road, car, pedestrian, and more. This rich dataset allows the model to learn and generalize effectively for urban scene understanding.
+The project employs the Cityscapes dataset, which includes a diverse set of images taken from within cars, providing a realistic view of urban environments. The dataset is annotated with pixel-level segmentation masks for various classes, such as sky, building, road, car, pedestrian, and more. This rich dataset allows the model to learn and generalize effectively for urban scene understanding. Link: https://www.cityscapes-dataset.com/
+
+![Dataset](https://www.cityscapes-dataset.com/wordpress/wp-content/uploads/2015/07/exampleFeaturedImage-270x250.png)
 
 ## Model Architecture
 
