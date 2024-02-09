@@ -43,10 +43,10 @@ The choice of ResNet101 as the encoder and Softmax2D activation aims to capture 
 ![Epochs 50](https://drive.google.com/uc?id=1qPHWLcOtjlcWKYomU9C1_GP-ocPeWtyX)
 
 #### Exemplary result from 20 Epochs
-![20 Epochs](https://drive.google.com/uc?id=1RV8YDj1lTH7yeGlFw_gj9zuDXxqtbGfY)
+![Video](https://drive.google.com/file/d/1RV8YDj1lTH7yeGlFw_gj9zuDXxqtbGfY/preview)
 
 #### Exemplary result from 50 Epochs
-![50 Epochs](https://drive.google.com/uc?id=1lyoXcaMi5EcBP9D2P8B5ZLbE1NA2n1uI)
+![Video](https://drive.google.com/file/d/1lyoXcaMi5EcBP9D2P8B5ZLbE1NA2n1uI/preview)
 
 ## Implementation Details
 
