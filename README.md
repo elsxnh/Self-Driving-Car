@@ -47,6 +47,7 @@ The choice of ResNet101 as the encoder and Softmax2D activation aims to capture 
 
 #### Exemplary result from 50 Epochs
 ![Video](https://drive.google.com/file/d/1lyoXcaMi5EcBP9D2P8B5ZLbE1NA2n1uI/preview)
+![Video](https://raw.githubusercontent.com/elsxxnh/Self-Driving-Car/main/240205_2130__p3_12_unet_qubvel_resnet101_imagenet_50_6fps_short.mp4)
 
 ## Implementation Details
 
