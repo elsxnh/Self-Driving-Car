@@ -42,13 +42,6 @@ The choice of ResNet101 as the encoder and Softmax2D activation aims to capture 
 #### Training results for 50 Epochs
 ![Epochs 50](https://drive.google.com/uc?id=1qPHWLcOtjlcWKYomU9C1_GP-ocPeWtyX)
 
-#### Exemplary result from 20 Epochs
-![Video](https://drive.google.com/file/d/1RV8YDj1lTH7yeGlFw_gj9zuDXxqtbGfY/preview)
-
-#### Exemplary result from 50 Epochs
-![Video](https://drive.google.com/file/d/1lyoXcaMi5EcBP9D2P8B5ZLbE1NA2n1uI/preview)
-![Video](https://raw.githubusercontent.com/elsxxnh/Self-Driving-Car/main/240205_2130__p3_12_unet_qubvel_resnet101_imagenet_50_6fps_short.mp4)
-
 ## Implementation Details
 
 The project is implemented in PyTorch and makes use of the segmentation_models_pytorch library. The model is trained on a GPU if available; otherwise, it falls back to CPU. To run this project on your local machine using Google Colab connected to Google Drive, follow these systematic steps:
