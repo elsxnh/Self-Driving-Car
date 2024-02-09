@@ -37,10 +37,16 @@ The choice of ResNet101 as the encoder and Softmax2D activation aims to capture 
 | Resnet101 |      Imagenet    |      0.001    | 50     | 0.1183         | 0.7906         | 0.9804        |
 
 #### Training results for 20 Epochs
-![20 Epochs](file:///C:/Users/LENOVO/Downloads/lr_001_epoch20.png)
+![20 Epochs](https://drive.google.com/uc?id=1chT27M4Juni6QosJv08AuBTp6QFIxrq-)
 
 #### Training results for 50 Epochs
-![Epochs 50](file:///C:/Users/LENOVO/Downloads/lr_001_epoch50.png)
+![Epochs 50](https://drive.google.com/uc?id=1qPHWLcOtjlcWKYomU9C1_GP-ocPeWtyX)
+
+#### Exemplary result from 20 Epochs
+![20 Epochs](https://drive.google.com/uc?id=1RV8YDj1lTH7yeGlFw_gj9zuDXxqtbGfY)
+
+#### Exemplary result from 50 Epochs
+![50 Epochs](https://drive.google.com/uc?id=1lyoXcaMi5EcBP9D2P8B5ZLbE1NA2n1uI)
 
 ## Implementation Details
 
