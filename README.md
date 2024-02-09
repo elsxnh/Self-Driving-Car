@@ -1,4 +1,4 @@
-# Self-Driving-Car-UNet
+# Self Driving Car UNet
 
 📁 Created by: Elsa Nurul Hidayah, 2023
 
@@ -56,5 +56,5 @@ Before you begin, make sure you have the following prerequisites:
 3. Clone the repository to your google colab (recommended):
 
     ```bash
-   git clone https://github.com/elsxnh/Person-Tracking-YOLOv8.git](https://github.com/elsxnh/Self-Driving-Car.git)https://github.com/elsxnh/Self-Driving-Car.git
+   git clone https://github.com/elsxnh/Self-Driving-Car.git
     ```
