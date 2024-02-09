@@ -31,6 +31,17 @@ The choice of ResNet101 as the encoder and Softmax2D activation aims to capture 
 
 ## Results 
 
+| ENCODER   | ENCODER WEIGHTS  | LEARNING RATE | EPOCHS | Dice loss Test | IOU Score Test | Test Accuracy |
+|-----------|------------------|---------------|--------|----------------|----------------|---------------|
+| Resnet101 |      Imagenet    |      0.001    | 20     | 0.1264         | 0.7794         | 0.9792        |
+| Resnet101 |      Imagenet    |      0.001    | 50     | 0.1183         | 0.7906         | 0.9804        |
+
+#### Training results for 20 Epochs
+![20 Epochs](file:///C:/Users/LENOVO/Downloads/lr_001_epoch20.png)
+
+#### Training results for 50 Epochs
+![Epochs 50](file:///C:/Users/LENOVO/Downloads/lr_001_epoch50.png)
+
 ## Implementation Details
 
 The project is implemented in PyTorch and makes use of the segmentation_models_pytorch library. The model is trained on a GPU if available; otherwise, it falls back to CPU. To run this project on your local machine using Google Colab connected to Google Drive, follow these systematic steps:
